@@ -1,0 +1,6 @@
+---
+title: Include w/Jupyter
+engine: jupyter
+---
+
+{{< include _content.md >}}
